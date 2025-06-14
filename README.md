@@ -33,7 +33,7 @@ The analysis compares the average click rates of 31 different link colors to det
 1. Python 3
 2. pandas
 3. numpy
-4. scipy
+4. seaborn
 5. matlplotlib
 
 Note: These dependencies are already present in Google Colab
